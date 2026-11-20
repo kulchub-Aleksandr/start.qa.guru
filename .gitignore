@@ -1,0 +1,47 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Build
+build/
+out/
+bin/
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test reports
+test-results/
+reports/
+
+# Dependency directories
+lib/
+
+# Generated files
+generated/
+
+# Environment files
+.env
+
+# Development tool directories
+.kilo/
+.proxyai/
+out.txt
+runout.txt
